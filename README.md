@@ -41,7 +41,8 @@ This is the sub-subsection. Ok, using markdown is simpler and requires less wiri
 
 Link test: [CTA: a next generation gamma-ray astronomy](http://www.cta-observatory.org)
 
-Image test: ![Alt text for image tag: Echo of Moscow](http://echo.msk.ru/i/Echo_of_Moscow_Radio.svg)
+Image test (image link is http://echo.msk.ru/i/Echo_of_Moscow_Radio.svg ): 
+![Alt text for image tag: Echo of Moscow](http://echo.msk.ru/i/Echo_of_Moscow_Radio.svg)
 
 ### GitHub flavored markdown
 
